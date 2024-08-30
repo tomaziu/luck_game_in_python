@@ -20,4 +20,4 @@ Continue jogando até acertar ou decidir parar.
 Veja sua pontuação total ao final do jogo.
 
 ## Script do Jogo 🕹️
-[LINK DO JOGO](https://github.com/tomaziu/Jogo-de-Sorte-em-Python--/blob/main/jogo_da_sorte.py)
+**[LINK DO JOGO](https://github.com/tomaziu/Jogo-de-Sorte-em-Python--/blob/main/jogo_da_sorte.py)**
