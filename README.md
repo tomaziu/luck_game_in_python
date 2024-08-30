@@ -18,3 +18,5 @@ Execute o script Python.
 Digite um número entre 0 e 10 para tentar adivinhar o número secreto.
 Continue jogando até acertar ou decidir parar.
 Veja sua pontuação total ao final do jogo.
+
+## Script do Jogo 🕹️
