@@ -11,7 +11,7 @@ while True: # loop do jogo
     for c in range(5): # 5 tentativas para o jogador
         while True: # loop de tratamento de erro
             try:
-                tent = int(input('\033[1mChute o número gerado pelo computador: \033[m'))
+                tent = int(input('\033[1mChute o número gerado pelo computador de 0 a 10: \033[m'))
                 break
             except (NameError, ValueError):
                 print('\033[1;31mResposta inválida\033[m')
