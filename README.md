@@ -20,4 +20,4 @@ This is a simple luck-based game developed in Python, where the goal is to guess
 4. View your total score at the end of the game.  
 
 ## Game Script 🕹️  
-**[GAME LINK](https://github.com/tomaziu/Jogo-de-Sorte-em-Python--/blob/main/jogo_da_sorte.py)**  
+**[GAME LINK](https://github.com/tomaziu/luck_game_in_python/blob/main/luckgamer.py)**  
